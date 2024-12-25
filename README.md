@@ -1,10 +1,8 @@
-git add README.md
-git commit -m "Fix typo in README.md"
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
 
-A calculator that calculates simple interest given principal(p), annual rate of interest(r) and time period in years(t).
+A calculator that calculates simple interest given principal (p), annual rate of interest (r) and time period in years (t).
 
 ```
 Input:
